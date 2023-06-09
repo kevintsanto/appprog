@@ -1,4 +1,4 @@
-package Pruebas;
+package Pruebas
 
 import Clases.Producto;
 import Clases.TipoRopa;
